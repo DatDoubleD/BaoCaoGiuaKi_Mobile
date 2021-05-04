@@ -55,5 +55,11 @@
 	<false/>
   <key>UIStatusBarStyle</key>
   <string>UIStatusBarStyleDefault</string>
+  <key>UIAppFonts</key>
+	<array>
+		<string>CarmenSans-Thin CarmenSans-Thin.otf</string>	
+		<string>CarmenSans-SemiBold CarmenSans-SemiBold.otf</string>
+		<string>CarmenSans-Regular CarmenSans-Regular.otf</string>
+	</array>
 </dict>
 </plist>
